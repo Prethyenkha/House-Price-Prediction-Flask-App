@@ -1,4 +1,4 @@
-# 🏠 Elastic Net House Price Prediction
+# 🏠 House Price Prediction
 
 Welcome to the **House Price Prediction Web App**!  
 This project leverages advanced machine learning—**Elastic Net Regression**—and a modern web interface to predict California house prices using features like *income, house age, number of rooms, bedrooms, and population*.
@@ -78,18 +78,7 @@ ElasticNetApp/
    The Flask app loads the trained model and predicts the house price instantly.
 
 ---
+## 🖼️ App Preview
 
-## 🤝 Contributing
+<img width="1344" height="624" alt="Screenshot 2025-08-05 142358" src="https://github.com/user-attachments/assets/3aabd9e5-da64-4c10-91ac-4ead3df109b9" />
 
-Pull requests and suggestions are welcome!  
-If you find bugs or want to add features, feel free to open an issue.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Happy Predicting! 🏡✨**
